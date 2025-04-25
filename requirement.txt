@@ -1,0 +1,6 @@
+pathlib
+openpyxl
+xlrd
+pillow
+tkinten
+pandas
